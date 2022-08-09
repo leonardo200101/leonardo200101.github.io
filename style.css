@@ -1,6 +1,8 @@
 body,
 html {
 	background: #333;
+	overflow-y: hidden;
+	overflow-x: hidden;
 }
 
 body {
