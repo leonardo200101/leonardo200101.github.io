@@ -9,13 +9,13 @@ var tl = new TimelineMax({
 tl
 .to(xyz, .7, {
 	text: "faster",
-	color: "#EDFF00"
+	color: "#8AD0FF"
 })
 .to(xyz, .7, {
 	text: "collaboratively",
-	color: "#ED1E79"
+	color: "#25C48A"
 }, "+=1.5")
 .to(xyz, .7, {
-	text: "through cutting-edge solutions",
-	color: "#0BFCF0"
+	text: "dinamic",
+	color: "#FAB416"
 }, "+=1.5");
